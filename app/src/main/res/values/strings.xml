@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica2_Widgets</string>
+    <string name="check1">Rojo</string>
+    <string name="check2">Verde</string>
+    <string name="check3">Azul</string>
+    <string name="btn1">validar</string>
+    <string name="rd1">Rojo</string>
+    <string name="rd2">Verde</string>
+    <string name="rd3">Azul</string>
+
+
+
+
+</resources>
